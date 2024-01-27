@@ -1,0 +1,15 @@
+:root {
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-main: #100924;
+    --bg-level-1: #0000008b;
+    --bg-level-2: #ffffff0f;
+    --bg-main-button: #fff;
+
+    --text-primary: #fff;
+    --text-secondary: #b3b3b3;
+    --text-primary-button: #100924;
+
+}
